@@ -5,3 +5,16 @@
     background-size: cover;
     height:40rem;  
     }
+    .navbar-brand{
+font-size:1.2rem;
+color:black
+    }
+ .nav-link{
+    color:black
+ }
+ 
+ .nav-link:hover{
+    color:brown
+ }
+ 
+ 
